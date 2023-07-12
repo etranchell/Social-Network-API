@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Social Media API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etranchell/Social-Network-API.git"
+  },
+  "author": "ET",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etranchell/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/etranchell/Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.3.4"
+  }
+}
